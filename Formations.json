@@ -2,9 +2,10 @@
     "superkiller": "SuperKiller,Outlaw,Amber|SuperKiller,Outlaw,Flash|SuperKiller,Outlaw,Marron Warrior",
     "outlaw": "SuperKiller,Outlaw,Amber|SuperKiller,Outlaw,Marron Warrior|SuperKiller,Outlaw,Flash|Raven,Outlaw,Flash",
     "amber": "SuperKiller,Outlaw,Amber|Raven,Outlaw,Amber|SparkFox,Azure,Amber|Adora,Scorpion,Amber|Adora,Skull,Amber|Hunk,Skull,Amber(V)",
-    "skull": "Adora,Skull,Kelly|Adora,Skull,Amber|Adora,Skull,Flash|Hunk,Skull,Amber(V)",
+    "skull": "Adora,Skull,Kelly|Adora,Skull,Amber|Adora,Skull,Flash|Hunk,Skull,Amber(V)|Adora|Skull|Travis",
     "kelly": "Adora,Skull,Kelly|Angel(S),Adora,Kelly|Angel(S),Skull,Kelly",
     "alvita": "Alvita,Daisy,Marron Warrior|Alvita,Rick(F),Negan(F)|Alvita,Outlaw,Amber",
-    "travis": "Raven,SparkFox,Travis|Annie,Daisy,Travis|Adora,Travis,Flash",
-    "angel":"Angel,Rick,Negan|Angel,RoadWarden,Travis|Angel,Ghosthand,Natalia"
+    "travis": "Raven,SparkFox,Travis|Annie,Daisy,Travis|Adora,Travis,Flash|Adora,Kelly,Travis|Adora|Skull|Travis",
+    "angel":"Angel,Rick,Negan|Angel,RoadWarden,Travis|Angel,Ghosthand,Natalia",
+    "adora":"Adora,Skull,Kelly|Adora,Kelly,Flash|Adora,Kelly,Travis|Adora|Skull|Travis"
 }
