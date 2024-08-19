@@ -1,13 +1,14 @@
 {
     "superkiller": "SuperKiller,Outlaw,Amber|SuperKiller,Outlaw,Flash|SuperKiller,Outlaw,Marron Warrior",
     "outlaw": "SuperKiller,Outlaw,Amber|SuperKiller,Outlaw,Marron Warrior|SuperKiller,Outlaw,Flash|Raven,Outlaw,Flash",
-    "amber": "SuperKiller,Outlaw,Amber|Raven,Outlaw,Amber|SparkFox,Azure,Amber|Adora,Scorpion,Amber|Adora,Skull,Amber|Hunk,Skull,Amber(V)",
+    "amber": "SuperKiller,Outlaw,Amber|Raven,Outlaw,Amber|Azi,Azure,Amber|Adora,Scorpion,Amber|Adora,Skull,Amber|Hunk,Skull,Amber(V)",
     "skull": "Adora,Skull,Kelly|Adora,Skull,Amber|Adora,Skull,Flash|Hunk,Skull,Amber(V)|Adora,Skull,Travis",
     "kelly": "Adora,Skull,Kelly|Angel(S),Adora,Kelly|Angel(S),Skull,Kelly",
     "alvita": "Alvita,Daisy,Marron Warrior|Alvita,Rick(F),Negan(F)|Alvita,Outlaw,Amber",
-    "travis": "Raven,SparkFox,Travis|Annie,Daisy,Travis|Adora,Travis,Flash|Adora,Kelly,Travis|Adora,Skull,Travis",
+    "travis": "Raven,Azi,Travis|Annie,Daisy,Travis|Adora,Travis,Flash|Adora,Kelly,Travis|Adora,Skull,Travis",
     "angel":"Angel,Rick,Negan|Angel,RoadWarden,Travis|Angel,Ghosthand,Natalia",
     "adora":"Adora,Skull,Kelly|Adora,Kelly,Flash|Adora,Kelly,Travis|Adora,Skull,Travis",
     "raven":"Raven,Former Mayor,Thunderbolt|Raven,Spark Fox,Flash|Raven,Former Mayor,Amber|Raven,Hunk,Thunderbolt|Raven,Outlaw,Flash",
-    "thunderbolt":"Raven,Former Mayor,Thunderbolt|Raven,Hunk,Thunderbolt|Super Killer,Hunk,Thunderbolt|Raven,Outlaw,Thunderbolt"
+    "thunderbolt":"Raven,Former Mayor,Thunderbolt|Raven,Hunk,Thunderbolt|Super Killer,Hunk,Thunderbolt|Raven,Outlaw,Thunderbolt",
+    "azi":"Azi,Rick,Negan|Azi,Mech Pilot,Warrant Officer|Raven,Azi,Flash|Azi,Azure,Amber(V)"
 }
