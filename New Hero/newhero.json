@@ -1,1 +1,16 @@
-{"newheroes":[{"name":"Dark Shadow","image":"https://i.imgur.com/1nAjHQC.jpeg","troop":"Fighter","description":"The new upcoming SP hero."},{"name":"Risen","image":"https://i.imgur.com/VJUdNwl.jpeg","troop":"Fighter","description":"The new upcoming SP hero."}]}
+{
+    "newheroes": [
+        {
+            "name": "Shadowy Man",
+            "image": "https://i.imgur.com/1nAjHQC.jpeg",
+            "troop": "Fighter",
+            "description": "The new upcoming SP hero."
+        },
+        {
+            "name": "Revived Soul",
+            "image": "https://i.imgur.com/VJUdNwl.jpeg",
+            "troop": "Fighter",
+            "description": "The new upcoming SP hero."
+        }
+    ]
+}
