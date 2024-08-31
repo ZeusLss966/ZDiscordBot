@@ -1,4 +1,4 @@
 {
-	"version": "2.0.0",
+	"version": [{"Major":1,"Minor":0,"Build":0,"Revision":0}],
 	"downloadlink": "https://google.com"
 }
