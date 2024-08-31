@@ -6,9 +6,11 @@
     "kelly": "Adora,Skull,Kelly|Angel(S),Adora,Kelly|Angel(S),Skull,Kelly",
     "alvita": "Alvita,Daisy,Marron Warrior|Alvita,Rick(F),Negan(F)|Alvita,Outlaw,Amber",
     "travis": "Raven,Azi,Travis|Annie,Daisy,Travis|Adora,Travis,Flash|Adora,Kelly,Travis|Adora,Skull,Travis",
-    "angel":"Angel,Rick,Negan|Angel,RoadWarden,Travis|Angel,Ghosthand,Natalia",
-    "adora":"Adora,Skull,Kelly|Adora,Kelly,Flash|Adora,Kelly,Travis|Adora,Skull,Travis",
-    "raven":"Raven,Former Mayor,Thunderbolt|Raven,Spark Fox,Flash|Raven,Former Mayor,Amber|Raven,Hunk,Thunderbolt|Raven,Outlaw,Flash",
-    "thunderbolt":"Raven,Former Mayor,Thunderbolt|Raven,Hunk,Thunderbolt|Super Killer,Hunk,Thunderbolt|Raven,Outlaw,Thunderbolt",
-    "azi":"Azi,Rick,Negan|Azi,Mech Pilot,Warrant Officer|Raven,Azi,Flash|Azi,Azure,Amber(V)"
+    "angel": "Angel,Rick,Negan|Angel,RoadWarden,Travis|Angel,Ghosthand,Natalia",
+    "adora": "Adora,Skull,Kelly|Adora,Kelly,Flash|Adora,Kelly,Travis|Adora,Skull,Travis",
+    "raven": "Raven,Former Mayor,Thunderbolt|Raven,Spark Fox,Flash|Raven,Former Mayor,Amber|Raven,Hunk,Thunderbolt|Raven,Outlaw,Flash",
+    "thunderbolt": "Raven,Former Mayor,Thunderbolt|Raven,Hunk,Thunderbolt|Super Killer,Hunk,Thunderbolt|Raven,Outlaw,Thunderbolt",
+    "azi": "Azi,Rick,Negan|Azi,Mech Pilot,Warrant Officer|Raven,Azi,Flash|Azi,Azure,Amber(V)",
+    "shadowyman": "Alvita,Shadowy Man,Revived Soul|Shadowy Man,Fortuneteller,Revived Soul|Shadowy Man,Outlaw,Revived Soul,Raven,Shadowy Man,Thunderbolt",
+    "revivedsoul": "Alvita,Shadowy Man,Revived Soul|Shadowy Man,Fortuneteller,Revived Soul|Shadowy Man,Outlaw,Revived Soul,SuperKiller,Outlaw,Revived Soul"
 }
