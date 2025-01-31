@@ -1,0 +1,19 @@
+[Update]
+Version=1.1.0
+URL=http://google.com
+
+Size=;optional. Startring v5.4, you can specify the size of the update, for example: (10MB)
+Parameters=;optional. Startring v5.4, the Update Parameters can be specified in the Update Info file
+DownloadParameters=;optional.Startring v5.4, the "Parameters to New Version URL" can be specified in the Update Info file
+NotifyOnce=;optional. Startring v5.4 - type here your custom message to show the user when an update is not available. This appers one time only. If specify a URL at the end, the Updater asks the user to open it. For new line use %n
+
+[1.2]
+0=Added new features
+1=Fixed some bugs
+..
+
+[1.1]
+0=Added new features
+1=Fixed some bugs
+
+[1.0]
